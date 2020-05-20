@@ -8,8 +8,7 @@ var values = []
 var cnt = 0
 var sum = 0
 var table1
-//   what happen when click generate your bill
-// check whether option is selected or not
+
 // menu with price list
 var menu ={
     Dosa : 80,
